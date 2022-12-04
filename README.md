@@ -9,4 +9,4 @@ Conference link: [aics2022.mtu.ie/](aics2022.mtu.ie/)
 Full paper link will be posted here. 
 
 # Our poster
-The poster for this work can be accessed (here)[/posterAICS.pdf].
+The poster for this work can be accessed [here](/posterAICS.pdf).
